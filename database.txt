@@ -1,0 +1,21 @@
+many to many; many student can study many courses.
+many to 1; many employ can work in a single department
+1 to 1; 1 employ can work in a 1 department
+1 to many; 1 student can studuy many coursesssssss
+
+
+1st normalization rule:
+1 each column should contain atomic(single) values
+2 a column should contain values that are of the same type
+3 each column should contain a unique name or have a unique name
+4 order in which data is saved doesn't matter
+
+2nd normalization rule:
+1 it should follow all 1st normalization rule and it should be correct
+2 it shouldn't have any partial dependency
+3 1 and 2 condition should be match to be 2nd normalization
+4 transitive dependency should not be there
+
+
+
+

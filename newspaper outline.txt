@@ -1,0 +1,12 @@
+<html>
+<head>
+<titile>New York Times</title>
+<body>
+<div style="height:100px;background-color:red;">header</div>
+<div style="height:200px;background-color:black;width:50%"/>slider</div>
+<div style="height:200px;background-color:green;width:50%/>content</div>
+<div style="height:1500px;background-color:blue;">discription</div>
+<div style="height:150px;background-color:pink;">sooter</div>
+<head>
+</body>
+</html>

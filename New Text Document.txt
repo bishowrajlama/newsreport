@@ -1,0 +1,8 @@
+234 died
+docker language
+padding:20px; all four side top , right , bottom , left
+padding-left:20px; for single side
+padding:20px 0 ;for top and bottom
+padding : o 20 px ; for left and right
+padding: 30px 20px 30px 10px;respectively on top right bottom left
+padding:10px 20px 30px ;respectively on top right bottom left
